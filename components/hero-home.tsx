@@ -21,7 +21,7 @@ export default function HeroHome() {
                 data-aos="fade-up"
                 data-aos-delay={200}
               >
-                Meaninful insights to strengthen partnerships and drive impact.
+                Meaningful insights to strengthen partnerships and drive impact.
               </p>
               <div className="mx-auto max-w-xs sm:flex sm:max-w-none sm:justify-center">
                 <div data-aos="fade-up" data-aos-delay={400}>
