@@ -40,10 +40,12 @@ export default function Features() {
               </span>
             </div>
             <h2 className="animate-[gradient_6s_linear_infinite] bg-[linear-gradient(to_right,theme(colors.gray.200),theme(colors.indigo.200),theme(colors.gray.50),theme(colors.indigo.300),theme(colors.gray.200))] bg-[length:200%_auto] bg-clip-text pb-4 font-nacelle text-3xl font-semibold text-transparent md:text-4xl">
-              Designed for Long-Term Oriented Universities
+              Built for modern product teams
             </h2>
             <p className="text-lg text-indigo-200/65">
-              Unlock the full potential of your academic reputation. Reputation 360 is a modular solution designed for higher education institutions to understand, measure, and strengthen their reputation, both domestically and globally. Whether it’s analyzing internal perceptions, evaluating peer recognition, or bridging partnership gaps, we provide actionable insights to drive growth and long-lasting impact.
+              Open AI reads and understands your files, and with nothing more
+              than a single line of feedback, so you can go further than the
+              speed of thought.
             </p>
           </div>
           <div className="flex justify-center pb-4 md:pb-12" data-aos="fade-up">
@@ -69,10 +71,7 @@ export default function Features() {
                   fillOpacity=".48"
                   d="m16.295 5.393 7.528 2.034-4.436 16.412L5.87 20.185l.522-1.93 11.585 3.132 3.392-12.55-5.597-1.514.522-1.93Z"
                 />
-              </svg> 
-
-
-              
+              </svg>
               <h3 className="mb-1 font-nacelle text-[1rem] font-semibold text-gray-200">
                 Project Milestones
               </h3>
